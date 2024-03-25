@@ -4,4 +4,7 @@
 - The data set consists of 50 samples from each of three species of Iris (Iris setosa, Iris virginica and Iris versicolor).  
 - Four features were measured from each sample: the length and the width of the sepals and petals, in centimeters. Based on the combination of these four features, Fisher developed a linear discriminant model to distinguish the species from each other.  
 
-We have used a Decision Tree Classifier to identify the different species.
+We have used a Decision Tree Classifier to identify the different species. 
+__________________________________________________________________________________________________________________________________________________________________________________
+
+![image](https://github.com/Zeenat-K/Decision-Tree-Classifier-Iris/assets/127677471/e4c5c296-9fb6-48de-9e87-e7b0dd7bf5e2)
